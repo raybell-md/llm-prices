@@ -58,7 +58,7 @@
       "name": "Amazon Nova 2 Omni (Preview)",
       "price_history": [
         {
-          "input": 1.0,
+          "input": 0.3,
           "output": 2.5,
           "from_date": null,
           "to_date": null,
@@ -67,12 +67,12 @@
       ]
     },
     {
-      "id": "amazon-nova-2",
-      "name": "Amazon Nova 2",
+      "id": "amazon-nova-2-pro-preview",
+      "name": "Amazon Nova 2 Pro (Preview)",
       "price_history": [
         {
-          "input": 0.8,
-          "output": 1.6,
+          "input": 1.25,
+          "output": 10.0,
           "from_date": null,
           "to_date": null,
           "input_cached": null
